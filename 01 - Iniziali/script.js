@@ -17,4 +17,3 @@ function getInitials(names) {
 console.log(getInitials(names));
 
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
-
